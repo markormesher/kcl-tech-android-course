@@ -13,4 +13,4 @@ TODO
 ## Lecture One
 
 - [Handout](Lectures/Lecture One/handout.pdf)
-- [blank-project.zip](Lectures/Lecture One/blank-project.zip)
+- [blank-project.zip](Lectures/Lecture One/blank-project.zip) (Click on "Raw" to download)
