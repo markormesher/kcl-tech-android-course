@@ -13,4 +13,4 @@ TODO
 ## Lecture One
 
 - [Handout](Lectures/Lecture One/handout.pdf)
-- [initial-project.zip](Lectures/Lecture One/initial-project.zip)
+- [blank-project.zip](Lectures/Lecture One/blank-project.zip)
