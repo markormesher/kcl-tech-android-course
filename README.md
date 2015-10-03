@@ -1,8 +1,8 @@
-# KCL Tech, Build Me X: Android
+# KCL Tech, Build X: Android
 
 ## Intro
 
-This is a repository of resources for KCL Tech's "Build Me X: Android" course.
+This is a repository of resources for KCL Tech's "Build X: Android" course.
 
 Here you will find links to lecture notes, code samples, pre-lecture downloads, etc.
 
