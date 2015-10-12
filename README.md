@@ -18,3 +18,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 - [handout.pdf](Lectures/Lecture One/handout.pdf)
 - [blank-project.zip](Lectures/Lecture One/blank-project.zip)
+
+## Lecture Two
+
+- [Fill in our survey!](http://goo.gl/forms/4IxsNFv6NF)
+- [handout.pdf](Lectures/Lecture Two/handout.pdf)
