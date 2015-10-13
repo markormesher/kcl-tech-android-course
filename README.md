@@ -21,5 +21,6 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture Two
 
-- [Fill in our survey!](http://goo.gl/forms/4IxsNFv6NF)
+- **[Fill in our survey!](http://goo.gl/forms/4IxsNFv6NF)**
 - [handout.pdf](Lectures/Lecture Two/handout.pdf)
+- [Resource on dimension units](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
