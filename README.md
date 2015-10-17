@@ -25,7 +25,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 - Downloads:
   - [handout.pdf](Lectures/Lecture Two/handout.pdf)
   - [slides.pdf](Lectures/Lecture Two/slides.pdf)
-  - [end-of-lecture-two.zip](Lectures/Lecture Two/end-of-lecture-two.zip) _(this is what the code should look like be the end of the lecture)_
+  - [end-of-lecture-two.zip](Lectures/Lecture Two/end-of-lecture-two.zip)
+    - This is what the code should look like be the end of the lecture
   - [relative-layout-exercise.zip](Lectures/Lecture Two/relative-layout-exercise.zip)
     - In the "Your Assignment" folder you'll find details of the task
     - In the "RelativeLayoutExercise" folder you'll find the app you need to work on
