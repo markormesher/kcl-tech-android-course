@@ -28,3 +28,6 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [end-of-lecture-two.zip](Lectures/Lecture Two/end-of-lecture-two.zip) _(this is what the code should look like be the end of the lecture)_
 - Resources:
   - [Good explanation of dimension units](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
+  - [Relative layout exercise](Lectures/Lecture Two/relative-layout-exercise.zip)
+    - In the "Your Assignment" folder you'll find details of the task
+    - In the "RelativeLayoutExercise" folder you'll find the app you need to work on
