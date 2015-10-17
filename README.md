@@ -16,12 +16,15 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture One
 
-- [handout.pdf](Lectures/Lecture One/handout.pdf)
-- [blank-project.zip](Lectures/Lecture One/blank-project.zip)
+- Downloads:
+  - [handout.pdf](Lectures/Lecture One/handout.pdf)
+  - [blank-project.zip](Lectures/Lecture One/blank-project.zip)
 
 ## Lecture Two
 
-- **[Fill in our survey!](http://goo.gl/forms/4IxsNFv6NF)**
-- [handout.pdf](Lectures/Lecture Two/handout.pdf)
-- [slides.pdf](Lectures/Lecture Two/slides.pdf)
-- [Resource on dimension units](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
+- Downloads:
+  - [handout.pdf](Lectures/Lecture Two/handout.pdf)
+  - [slides.pdf](Lectures/Lecture Two/slides.pdf)
+  - [end-of-lecture-two.zip](Lectures/Lecture Two/end-of-lecture-two.zip) _(this is what the code should look like be the end of the lecture)_
+- Resources:
+  - [Good explanation of dimension units](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
