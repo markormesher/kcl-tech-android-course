@@ -32,3 +32,9 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
     - In the "RelativeLayoutExercise" folder you'll find the app you need to work on
 - Resources:
   - [Good explanation of dimension units](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
+
+## Lecture Three
+
+- Downloads:
+  - [handout.pdf](Lectures/Lecture Three/handout.pdf)
+  - [slides.pdf](Lectures/Lecture Three/slides.pdf)
