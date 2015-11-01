@@ -50,3 +50,33 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Recap and ListViews**
 
 *[Content coming soon]*
+
+## Lecture Five
+
+**Data: Preferences and Databases**
+
+*[Content coming soon]*
+
+## Lecture Six
+
+**Networking**
+
+*[Content coming soon]*
+
+## Lecture Seven
+
+**Fragements**
+
+*[Content coming soon]*
+
+## Lecture Eight
+
+**To be confirmed**
+
+*[Content coming soon]*
+
+## Lecture Nine
+
+**Open Session!**
+
+*[Content coming soon]*
