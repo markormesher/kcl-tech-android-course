@@ -49,7 +49,9 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 **Recap and ListViews**
 
-*[Content coming soon]*
+- Downloads:
+  - [list-view-demo.zip](Lectures/Lecture Four/list-view-demo.zip)
+    - A comparison of lists with and without a ListView, used during the lecture demonstration.
 
 ## Lecture Five
 
