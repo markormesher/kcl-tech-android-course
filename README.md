@@ -16,11 +16,15 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture One
 
+**Environment Setup and Course Introduction**
+
 - Downloads:
   - [handout.pdf](Lectures/Lecture One/handout.pdf)
   - [blank-project.zip](Lectures/Lecture One/blank-project.zip)
 
 ## Lecture Two
+
+**Layouts, Views and Groups**
 
 - Downloads:
   - [handout.pdf](Lectures/Lecture Two/handout.pdf)
@@ -35,6 +39,14 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture Three
 
+**Events, Intents and the Activity Lifecycle**
+
 - Downloads:
   - [handout.pdf](Lectures/Lecture Three/handout.pdf)
   - [slides.pdf](Lectures/Lecture Three/slides.pdf)
+
+## Lecture Four
+
+**Recap and ListViews**
+
+*[Content coming soon]*
