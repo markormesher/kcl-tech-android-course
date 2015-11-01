@@ -77,6 +77,6 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture Nine
 
-**Open Session!**
+**Open Session!** Come along with any questions, problems or ideas you may have. I will be covering a few final topics, but this session belongs to you!
 
 *[Content coming soon]*
