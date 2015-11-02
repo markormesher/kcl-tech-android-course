@@ -19,7 +19,7 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Environment Setup and Course Introduction**
 
 - Downloads:
-  - [handout.pdf](Lectures/Lecture One/handout.pdf)
+  - [handout.pdf](raw/master/Lectures/Lecture One/handout.pdf)
   - [blank-project.zip](Lectures/Lecture One/blank-project.zip)
 
 ## Lecture Two
