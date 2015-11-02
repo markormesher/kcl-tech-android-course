@@ -19,8 +19,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Environment Setup and Course Introduction**
 
 - Downloads:
-  - [handout.pdf](raw/master/Lectures/Lecture One/handout.pdf)
-  - [blank-project.zip](Lectures/Lecture One/blank-project.zip)
+  - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture One/handout.pdf)
+  - [blank-project.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture One/blank-project.zip)
 
 ## Lecture Two
 
