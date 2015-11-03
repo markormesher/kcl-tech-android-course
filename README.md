@@ -51,7 +51,7 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 - Downloads:
   - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Four/handout.pdf)
-  - [blank-project.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Four/blank-project.zip)
+  - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Four/slides.pdf)
   - [list-view-demo.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Four/list-view-demo.zip)
     - A comparison of lists with and without a ListView, used during the lecture demonstration.
 
