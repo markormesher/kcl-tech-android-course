@@ -55,6 +55,14 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [list-view-demo.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Four/list-view-demo.zip)
     - A comparison of lists with and without a ListView, used during the lecture demonstration.
 
+## Halfway Catch Up - Important!
+
+*Progress So Far, What's Next and Important Information*
+
+- Downloads:
+  - [halfway-catch-up.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Halfway Catch Up/halfway-catch-up.pdf)
+  - [halfway-perfect-state.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Halfway Catch Up/halfway-perfect-state.pdf)
+
 ## Lecture Five
 
 **Data: Preferences and Databases**
@@ -63,13 +71,13 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture Six
 
-**Networking**
+**Putting it All Together**
 
 *[Content coming soon]*
 
 ## Lecture Seven
 
-**Fragements**
+**Networking**
 
 *[Content coming soon]*
 
