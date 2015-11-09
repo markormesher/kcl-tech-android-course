@@ -57,7 +57,7 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Halfway Catch Up - Important!
 
-*Progress So Far, What's Next and Important Information*
+**Progress So Far, What's Next and Important Information**
 
 - Downloads:
   - [halfway-catch-up.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Halfway Catch Up/halfway-catch-up.pdf)
