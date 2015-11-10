@@ -67,7 +67,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 **Data: Preferences and Databases**
 
-*[Content coming soon]*
+- Downloads:
+  - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/handout.pdf)
 
 ## Lecture Six
 
