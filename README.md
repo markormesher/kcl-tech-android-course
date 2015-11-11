@@ -43,7 +43,7 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Three/handout.pdf)
   - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Three/slides.pdf)
   - [end-of-lecture-three.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Three/end-of-lecture-three.zip)
-    - This is what the code should look like be the end of the lecture
+    - This is what the code should look like at the end of the lecture
 
 ## Lecture Four
 
@@ -70,6 +70,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 - Downloads:
   - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/handout.pdf)
   - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/slides.pdf)
+  - [end-of-lecture-five.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/end-of-lecture-five.zip)
+    - This is what the code should look like at the end of the lecture
 
 ## Lecture Six
 
