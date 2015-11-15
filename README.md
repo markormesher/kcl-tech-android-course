@@ -72,6 +72,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/slides.pdf)
   - [end-of-lecture-five.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/end-of-lecture-five.zip)
     - This is what the code should look like at the end of the lecture
+  - [end-of-lecture-five-homework-solved.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Five/end-of-lecture-five-homework-solved.zip)
+    - This file includes a model solution to the homework challenge
 
 ## Lecture Six
 
