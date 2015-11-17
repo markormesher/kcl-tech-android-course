@@ -79,7 +79,9 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 **Putting it All Together**
 
-*[Content coming soon]*
+- Downloads:
+  - *No handout this week*
+  - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Six/slides.pdf)
 
 ## Lecture Seven
 
