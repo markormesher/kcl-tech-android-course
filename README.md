@@ -91,6 +91,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Seven/handout.pdf)
   - [api-example.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Seven/api-example.zip)
     - You'll need to work from this code during the lecture
+  - [api-example-completed.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Seven/api-example-completed.zip)
+    - Completed code from the lecture
 
 ## Lecture Eight
 
