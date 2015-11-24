@@ -85,9 +85,10 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 ## Lecture Seven
 
-**Networking**
+**Networking and APIs**
 
-*[Content coming soon]*
+- Downloads:
+  - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Seven/handout.pdf)
 
 ## Lecture Eight
 
