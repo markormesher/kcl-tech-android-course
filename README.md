@@ -99,7 +99,7 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 **Notifications and Wrap-up**
 
+*This session includes an Q&A section!* Come along with any questions, problems or ideas you may have with any of the content we've covered so far.
+
 - Downloads:
   - [handout.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Eight/handout.pdf)
-
-*This session includes an Q&A section!* Come along with any questions, problems or ideas you may have with any of the content we've covered so far.
