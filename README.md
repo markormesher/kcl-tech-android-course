@@ -106,3 +106,6 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
   - [slides.pdf](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Eight/slides.pdf)
   - [notification-demo.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Eight/notification-demo.zip)
     - You'll need to work from this code during the lecture
+  - [notification-demo-completed.zip](https://github.com/markormesher/KCLTechAndroidCourse/raw/master/Lectures/Lecture Eight/notification-demo-completed.zip)
+    - Completed code from the lecture
+
