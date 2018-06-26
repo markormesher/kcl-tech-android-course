@@ -60,8 +60,8 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Progress So Far, What's Next and Important Information**
 
 - Downloads:
-  - [halfway-catch-up.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Halfway Catch Up/halfway-catch-up.pdf)
-  - [halfway-perfect-state.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Halfway Catch Up/halfway-perfect-state.zip)
+  - [halfway-catch-up.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Halfway%20Catch%20Up/halfway-catch-up.pdf)
+  - [halfway-perfect-state.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Halfway%20Catch%20Up/halfway-perfect-state.zip)
 
 ## Lecture Five
 
