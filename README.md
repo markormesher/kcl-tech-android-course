@@ -17,19 +17,19 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Environment Setup and Course Introduction**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20One/handout.pdf)
-  - [blank-project.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20One/blank-project.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20One/handout.pdf)
+  - [blank-project.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20One/blank-project.zip)
 
 ## Lecture Two
 
 **Layouts, Views and Groups**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Two/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Two/slides.pdf)
-  - [end-of-lecture-two.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Two/end-of-lecture-two.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Two/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Two/slides.pdf)
+  - [end-of-lecture-two.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Two/end-of-lecture-two.zip)
     - This is what the code should look like be the end of the lecture
-  - [relative-layout-exercise.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Two/relative-layout-exercise.zip)
+  - [relative-layout-exercise.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Two/relative-layout-exercise.zip)
     - In the "Your Assignment" folder you'll find details of the task
     - In the "RelativeLayoutExercise" folder you'll find the app you need to work on
 - Resources:
@@ -40,9 +40,9 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Events, Intents and the Activity Lifecycle**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Three/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Three/slides.pdf)
-  - [end-of-lecture-three.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Three/end-of-lecture-three.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Three/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Three/slides.pdf)
+  - [end-of-lecture-three.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Three/end-of-lecture-three.zip)
     - This is what the code should look like at the end of the lecture
 
 ## Lecture Four
@@ -50,9 +50,9 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Recap and ListViews**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Four/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Four/slides.pdf)
-  - [list-view-demo.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Four/list-view-demo.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Four/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Four/slides.pdf)
+  - [list-view-demo.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Four/list-view-demo.zip)
     - A comparison of lists with and without a ListView, used during the lecture demonstration.
 
 ## Halfway Catch Up - Important!
@@ -68,11 +68,11 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 **Data: Preferences and Databases**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Five/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Five/slides.pdf)
-  - [end-of-lecture-five.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Five/end-of-lecture-five.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Five/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Five/slides.pdf)
+  - [end-of-lecture-five.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Five/end-of-lecture-five.zip)
     - This is what the code should look like at the end of the lecture
-  - [end-of-lecture-five-homework-solved.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Five/end-of-lecture-five-homework-solved.zip)
+  - [end-of-lecture-five-homework-solved.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Five/end-of-lecture-five-homework-solved.zip)
     - This file includes a model solution to the homework challenge
 
 ## Lecture Six
@@ -81,18 +81,18 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 
 - Downloads:
   - *No handout this week*
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Six/slides.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Six/slides.pdf)
 
 ## Lecture Seven
 
 **Networking and APIs**
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Seven/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Seven/slides.pdf)
-  - [api-example.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Seven/api-example.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Seven/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Seven/slides.pdf)
+  - [api-example.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Seven/api-example.zip)
     - You'll need to work from this code during the lecture
-  - [api-example-completed.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Seven/api-example-completed.zip)
+  - [api-example-completed.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Seven/api-example-completed.zip)
     - Completed code from the lecture
 
 ## Lecture Eight
@@ -102,10 +102,10 @@ Here you will find links to lecture notes, code samples, pre-lecture downloads, 
 *This session includes an Q&A section!* Come along with any questions, problems or ideas you may have with any of the content we've covered so far.
 
 - Downloads:
-  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Eight/handout.pdf)
-  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Eight/slides.pdf)
-  - [notification-demo.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Eight/notification-demo.zip)
+  - [handout.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Eight/handout.pdf)
+  - [slides.pdf](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Eight/slides.pdf)
+  - [notification-demo.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Eight/notification-demo.zip)
     - You'll need to work from this code during the lecture
-  - [notification-demo-completed.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecure%20Eight/notification-demo-completed.zip)
+  - [notification-demo-completed.zip](https://github.com/markormesher/kcl-tech-android-course/raw/master/Lectures/Lecture%20Eight/notification-demo-completed.zip)
     - Completed code from the lecture
 
